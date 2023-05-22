@@ -7,7 +7,10 @@
   <RouterView/>
 </template>
 
-<style scoped>
+<style scoped lang="scss">
+// .test {
+//   color: $warnColor;
+// }
 header {
   line-height: 1.5;
   max-height: 100vh;
